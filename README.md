@@ -1,2 +1,2 @@
-# redis_study
-redis学习
+# redis-study
+redis实践
